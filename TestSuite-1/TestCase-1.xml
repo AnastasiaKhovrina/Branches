@@ -8,6 +8,12 @@
     <con:settings/>
     <con:config xsi:type="con:ManualTestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
   </con:testStep>
+  <con:testStep type="groovy" name="Groovy Script" id="fd8d6d97-5ede-4953-851b-bce23bb19cc5">
+    <con:settings/>
+    <con:config>
+      <script/>
+    </con:config>
+  </con:testStep>
   <con:properties/>
   <con:reportParameters/>
 </con:testCase>
